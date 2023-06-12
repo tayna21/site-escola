@@ -22,4 +22,27 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+}
+.escola-imagem{
+    width: 50%;
+    <div align="center">
+    </div>/tmp/guest-dg3hvo/Imagens/Captura de tela_2023-06-12_07-38-21.png
     
+}
+.escola{
+    background-image: linear-gradient( rgb(255, 255, 255), rgb(255, 255, 255));
+    color:rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.escola-div-conteudo{
+width: 35%;
+   text-align: center;
+
+}
+.escola-titulo{
+    padding: 24px 0;
+}
